@@ -1,0 +1,21 @@
+Date,Region,Product,Units Sold,Unit Price,Total Revenue,Salesperson
+2025-01-01,East,Gadget,33,74.2,2448.6,Diana
+2025-01-02,South,Gadget,39,56.66,2209.74,Diana
+2025-01-03,East,Doohickey,66,37.43,2470.38,Charlie
+2025-01-04,North,Gadget,25,73.25,1831.25,Alice
+2025-01-05,East,Doohickey,24,53.32,1279.68,Diana
+2025-01-06,West,Gadget,25,93.21,2330.25,Diana
+2025-01-07,West,Gadget,35,43.29,1515.15,Bob
+2025-01-08,East,Gadget,32,86.94,2782.08,Charlie
+2025-01-09,East,Doohickey,65,18.26,1186.9,Bob
+2025-01-10,South,Doohickey,95,31.48,2990.6,Bob
+2025-01-11,South,Doohickey,1,82.39,82.39,Diana
+2025-01-12,West,Gadget,36,77.95,2806.2,Diana
+2025-01-13,North,Widget,12,18.27,219.24,Diana
+2025-01-14,South,Gadget,25,90.87,2271.75,Charlie
+2025-01-15,North,Gadget,54,34.94,1886.76,Alice
+2025-01-16,North,Widget,12,41.76,501.12,Diana
+2025-01-17,East,Gadget,89,12.76,1135.64,Charlie
+2025-01-18,North,Gadget,98,90.13,8832.74,Bob
+2025-01-19,North,Doohickey,74,51.79,3832.46,Diana
+2025-01-20,West,Widget,13,53.41,694.33,Bob
