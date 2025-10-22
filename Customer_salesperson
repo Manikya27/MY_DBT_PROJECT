@@ -1,0 +1,21 @@
+Customer ID,Customer Name,Region,Salesperson,Contact Info
+CUST001,Acme Corp,East,Charlie,acmecorp@example.com
+CUST002,Beta LLC,South,Alice,betallc@example.com
+CUST003,Gamma Inc,West,Diana,gammainc@example.com
+CUST004,Delta Co,West,Bob,deltaco@example.com
+CUST005,Epsilon Ltd,West,Diana,epsilonltd@example.com
+CUST006,Zeta Group,East,Bob,zetagroup@example.com
+CUST007,Eta Enterprises,South,Charlie,etaenterprises@example.com
+CUST008,Theta Solutions,North,Bob,thetasolutions@example.com
+CUST009,Iota Systems,West,Bob,iotasystems@example.com
+CUST010,Kappa Partners,South,Diana,kappapartners@example.com
+CUST011,Lambda Tech,West,Diana,lambdatech@example.com
+CUST012,Mu Dynamics,East,Diana,mudynamics@example.com
+CUST013,Nu Networks,East,Bob,nunetworks@example.com
+CUST014,Xi Innovations,South,Alice,xiinnovations@example.com
+CUST015,Omicron Services,East,Alice,omicronservices@example.com
+CUST016,Pi Holdings,South,Charlie,piholdings@example.com
+CUST017,Rho Ventures,North,Alice,rhoventures@example.com
+CUST018,Sigma Traders,North,Diana,sigmatraders@example.com
+CUST019,Tau Logistics,North,Diana,taulogistics@example.com
+CUST020,Upsilon Retail,West,Diana,upsilonretail@example.com
